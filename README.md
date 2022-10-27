@@ -6,3 +6,8 @@ COMMANDS
 3. commit : commit the changes locally
 4. push : push the commited changes to the repository
 5. pull 
+
+
+this is new work
+
+
